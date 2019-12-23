@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>风险地球.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A4AE250D3982EAF27B0424B35F3663D54E7F81DD</string>
+				<key>dateExpires</key>
+				<string>2022/12/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4V5B5R682D.com.dianjian.Riskearth</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4V5B5R682D</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>风险地球.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>35019243-71a3-4da7-80fe-7209a561225e</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.dianjian.Riskearth</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4V5B5R682D</string>
+				<key>name</key>
+				<string>PowerChina International Group Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
